@@ -4,6 +4,10 @@
     --tertiary-color: #39a6b2;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -569,4 +573,3 @@ footer a{
         order: 3;
     }
 }
- :hover
