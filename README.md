@@ -11,7 +11,7 @@ A website for an imaginary fitness company called 'Run Buddy'.
 Link to Website: https://padredilg.github.io/run-buddy/
 </br></br>
 Screenshot from Website:
-![screenshot of website](./assets/images/runbuddy-website.png)
+![screenshot from website](./assets/images/runbuddy-website-ss.png)
 
 ## :clap: Contribution
 Made with ❤️ by Luiz
