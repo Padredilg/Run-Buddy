@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## :label: Description
-A website for an imaginary fitness company called 'Run Buddy'.
+This website was built for a fitness company called "Run Buddy". Their purpose is to influence people to get more physically active by running.
 
 ## 	:hash: Coding Languages Used
 :heavy_check_mark: HTML</br>
